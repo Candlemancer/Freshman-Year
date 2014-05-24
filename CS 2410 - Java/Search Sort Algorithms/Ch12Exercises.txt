@@ -1,0 +1,17 @@
+// Jonathan Petersen
+// A01236750
+// Chapter 12
+// Exercises
+
+3.	- Declare the Return type
+	- Declare local variables
+	- Declare formal parameters
+
+4.	Extends
+
+6.	ListIterator implements Iterator, and provides additional functionality to
+	support linked lists, such as next and previous.
+
+7.	a.	LinkedList<Double> numList = new LinkedList<Double>();
+	b.	Collections.addAll(numList, 34.56, 78.32, 45.00, 23.78, 90.00, 12.50);
+	c.	ListIterator<Double> numIter = numList.listIterator(0);

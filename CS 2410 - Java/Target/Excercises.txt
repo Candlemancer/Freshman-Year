@@ -1,0 +1,40 @@
+//Jonathan Petersen
+//A01236750
+//Chapter 5 Exercises
+
+1.	a.	False
+	b.	True
+	c.	False
+	d.	True
+	e.	True
+	f.	True
+	g.	True
+	h.	False
+
+22.	public class Exercize22 {
+
+		static final int NUMBER = 2137;
+
+		public static main(String[] args) {
+			int a, b, c, d;
+
+			a = 3;
+			b = 5;
+			c = NUMBER;
+			d = a + b;
+
+			c = c + d;
+			NUMBER = a + NUMBER;
+
+			for (int i=3; i<=N; i++) {
+
+				System.out.print(" " + i);
+				i += 1;
+			}
+
+			System.out.println();
+		
+			return;
+		}
+
+	}

@@ -1,0 +1,24 @@
+//Jonathan Petersen
+//A01236750
+//Chapter 4 Excersises
+
+1.	a.	False
+	b.	False
+	c.	False
+	d.	True
+	e.	True
+	f.	False
+	g.	False
+	h.	False
+	i.	False
+	j.	False
+	k.	True
+
+2.	a.	"Hello There"
+	b.	"#*#"
+	c.	"3"
+	d.	Program will not compile because the 
+		second println function is missing a '"'.
+	e.	"$"
+
+8.	The output is 15. Case 5 doesn't have a break.

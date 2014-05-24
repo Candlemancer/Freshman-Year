@@ -1,0 +1,38 @@
+//Jonathan Petersen
+//A01236750
+//HW_02 Excersizes
+
+1.	a.	False
+	b.	True
+	c.	True
+	d.	True
+	e.	True
+	f.	False
+	g.	True
+	h.	True
+	i.	False
+	j.	False
+
+2.	a.	The output is "92".
+	b.	The output is "25 35".
+
+6.	a.	Correct
+	b.	Incorrect
+	c.	Correct
+	d.	Incorrect
+
+11.	a.	75.40
+	b.	982.90
+	c.	75.399
+	d.	982.898
+
+12.	a.	showInputDialog()
+	b.	showMessageDialog()
+	c.	JOptionPane
+	d.	javax.swing
+
+18.	a.	The contents of inputFile.dat are unchanged.
+	b.	The file outFile.dat will contain the results of the calculations.
+	c.	The file outFile.dat will only contain the results of the
+		calculations, all data originally in the file will be deleted.
+	d.	If outFile.dat does not exist it will be created.

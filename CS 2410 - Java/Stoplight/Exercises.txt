@@ -1,0 +1,55 @@
+//Jonathan Petersen
+//A01236750
+//Written Excercises - CH 03
+
+1.	a.	True
+	b.	True
+	c.	True
+	d.	True
+	e.	True
+	f.	False
+	g.	True
+	h.	False
+	i.	True
+	j.	False
+	k.	True
+	l.	True
+	m.	False
+	n.	True
+	o.	False
+	p.	True
+	q.	True
+	r.	True
+	s.	True
+
+2.	A primitive variable stores content directly into
+	it's memory location, wheras a reference variable
+	only stores a pointer to the location of the data.
+
+3.	An object is an instance of a class.
+
+4.	The new operator allocates memory for an object.
+
+6.	a.	G
+	b.	h
+	c.	27
+	d.	6
+	e.	22
+
+12.	Users prefer a GUI because it is easier for them 
+	to manipulate and understand.
+
+13.	a.	The method add() places GUI components in a container.
+	b.	Clicking a button generates an action event.
+	c.	The method actionPerformed() is called when a button 
+		is pressed, and an ActionListener is registered to 
+		handle the event.
+	d.	The assignment operator is needed to instantiate an object.
+	e.	A class has two types of members: public and private.
+	f.	To create a window, you extend the JFrame class.
+	g.	Every GUI program is an event-driven program.
+	h.  If Student is a class and you create anew class GradStudent
+		by extending Student, then Student is a superclass and 
+		GradStudent is a subclass.	
+	i.	Event and listener classes are contained in the package javax.swing
+	j.	The unit of measure of length and width in a window is pixels.

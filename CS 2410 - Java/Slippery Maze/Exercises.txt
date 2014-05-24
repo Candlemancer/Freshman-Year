@@ -1,0 +1,23 @@
+// Jonathan Petersen
+// A01236750
+// Chapter 9
+// Exercises
+
+4.	Private members of a class can only be accessed from within that class, 
+	while protected members can be accessed only within that class or within its subclasses.
+
+5.	A method is overloaded if it has multiple definitions with different parameter lists, 
+	and overridden if its definition changes when the object is subclassed. 
+
+6.	One situation where you would use the keyword "super" is while writing constructors of a
+	subclass, in order to invoke the constructor of the superclass. Another situation would
+	be if you wanted to specify that you were calling a method from a superclass, and not 
+	calling the overridden method from the subclass.
+
+12.	"2 This is Superclass"
+	"Subclass: 7"
+	"10 DDDDDD"
+
+13.	The operator "instanceof" returns true if the provided reference variable points to an
+	object of the specified type. (e.g. "intptr instanceof Integer" returns true if intptr 
+	points to an object of the Integer type.)

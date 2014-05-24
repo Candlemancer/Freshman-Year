@@ -1,0 +1,77 @@
+//Jonathan Petersen
+//A01236750
+//HW01
+
+CHAPTER 0
+16.
+	a. 	-Find the sum of all of the scores in the list.
+			Keep track of the number of elements.
+		-Divide the total we just found by the number of elements.
+			Be careful of integer division.
+		-Report this result as the average test score.
+
+	b.	-Create a loop to run through each student in the list.
+		-Construct an if statement inside of the loop which compares
+		 the scores of each student with the average score.
+		-For each student where score < average, print out their info.
+
+	c.	-Create a variable initialized below 0 to hold the maximum score.
+		-Inside the loop we created before, compare each new value with
+		 the value stored inside our variable. (Use an if statement.)
+		-If the student's score is higher than the current value int the
+		 variable, replace the value in the variable with the score.
+		-Once the loop has terminated, report the value of the variable as
+		 the highest score.
+
+	d.	-Compare the maximum score found above with each individual
+		 student's score in a manner similar part B. 
+		-For each match found in the new loop, print out the student's
+		 name instead of their score.
+
+CHAPTER 1
+1.
+	a.	False, a number may not come first in the identifier.
+	b.	False, a reserved word could be redefined.
+	c.	False.
+	d.	False.
+	e.	True.
+	f.	True.
+	g.	False, only the necessary operands are cast to floats.
+	h.	True.
+	i.	False.
+
+4.	
+	a.	I
+	b.	I
+	c.	II
+	d.	III
+	e.	IV
+	f.	I
+	g.	IV
+
+10.
+	a.	int x = 0;
+		int y = 1;
+
+	b.	int x = 10;
+		char ch = 'B';
+
+	c.	x += 5;
+
+	d.	double z = 25.3;
+
+	e.	z = y;
+
+	f.	int t;
+		t = x;
+		x = y;
+		y = t;
+
+	g.	System.out.println(x);
+		System.out.println(2 * x + 5 - y);
+
+	h.	char grade = 'A';
+
+	i.	int a, b, c, d;
+
+	j.	x = z;

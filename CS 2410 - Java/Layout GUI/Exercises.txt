@@ -1,0 +1,15 @@
+// Jonathan Petersen
+// A01236750
+// HW08 Written Exercises
+
+13.	a.	True
+	b.	True
+	c.	False
+	d.	False
+	e.	True
+
+14.	C
+
+15.	B
+
+16.	B

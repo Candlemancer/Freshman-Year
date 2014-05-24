@@ -1,0 +1,93 @@
+//Jonathan Petersen
+//A01236750
+//Chapter 6 and Chapter 7 Exercises
+
+Chapter 6:
+
+1.	a. True
+	b. False
+	c. False
+	d. False
+	e. False
+	f. True
+	g. False
+	h. False
+
+4.	a. "4"
+	b. "4"
+	c. "10 4 0"
+	d. "0"
+
+11.	import java.util.*;
+
+	public class Exercize11
+	{
+		static Scanner console = new Scanner(System.in);
+
+		public static void main(String[] args)
+		{
+			int num1;
+			int num2;
+
+			System.out.println("Please enter two integers "			// 1
+							  + "on separate lines";				//SIC. So technically none of the code would be run, right? =)
+			num1 = console.nextInt();								// 2
+			num2 = console.nextInt();								// 3
+			func (num1, num2);										// 4
+			System.out.println("The two integers are " + num1		// 8
+							  + ", " num2);
+		}
+
+		public static void fun (int val1, int val2)
+		{
+			int val3;
+			int val4;
+
+			val3 = val1 + val2;										// 5
+			val4 = val1 * val2;										// 6
+			System.out.println("The sum and product are " +val3		// 7
+							 + " and " + val4);
+		}
+	}
+
+24.	a.	SEE TESTCLASS.JAVA
+
+
+Chapter 7:
+
+1.	a.	True
+	b.	True
+	c.	True
+	d.	False
+	e.	False
+	f.	True
+	g.	True
+	h.	False
+	i.	True
+	j.	True
+
+2.	a.	int[] alpha = new int[15];
+	b.	System.out.print(Integer.toString(alpha[9]));
+	c.	alpha[4] = 35;
+	d.	alpha[8] = alpha[5] + alpha[12];
+	e.	alpha[3] = (3 * alpha[7]) - 57;
+	f.	for( int i : alpha ) {
+			System.out.print(Integer.toString(alpha[i]) + " ");
+			if( i % 5 == 4 ) System.out.print("\n");
+		}
+
+11.	a.	[0] [0] [0]
+		[0] [0] [0]
+		[0] [0] [0]
+
+	b.	[0] [1] [2]
+		[1] [2] [3]
+		[2] [3] [4]
+
+	c.	[0] [0] [0]
+		[0] [1] [2]
+		[0] [2] [4]
+
+	d.	[0] [2] [0]
+		[2] [0] [2]
+		[0] [2] [0]
