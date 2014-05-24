@@ -1,0 +1,95 @@
+P
+72
+0.05
+John Smith
+7907 SE Anderson st
+Rawlins
+Wyoming
+84325
+Allan Andrews
+425 E 300 S
+Logan
+Utah
+84321
+T
+72
+0.05
+John Smith
+7907 SE Anderson st
+Rawlins
+Wyoming
+84325
+Allan Andrews
+425 E 300 S
+Logan
+Utah
+84321
+0.02
+O
+72
+0.05
+John Smith
+7907 SE Anderson st
+Rawlins
+Wyoming
+84325
+Allan Andrews
+425 E 300 S
+Logan
+Utah
+84321
+25.25
+P
+100
+0.25
+Alan Adams
+3525 S 100 N apt 23
+Salt Lake City
+Utah
+84399
+Rebecca Jones
+1400 N 250 E
+Logan
+Utah
+84321
+P
+55
+0.15
+William Tell
+2522 N 300 S
+New York
+New York
+24322
+Allan Adams
+425 E 300 S
+Logan
+Utah
+84321
+T
+88
+0.36
+John Smith
+7907 SE Anderson st
+Rawlins
+Wyoming
+84325
+Allan Andrews
+425 E 300 S
+Logan
+Utah
+84321
+0.07
+O
+200
+0.75
+John Smith
+7907 SE Anderson st
+Rawlins
+Wyoming
+84325
+Allan Andrews
+425 E 300 S
+Logan
+Utah
+84321
+55.75
