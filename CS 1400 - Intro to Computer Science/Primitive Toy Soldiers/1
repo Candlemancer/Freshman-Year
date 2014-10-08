@@ -1,0 +1,110 @@
+#include "ToySoldiers.h"
+
+using namespace std;
+   
+//--------------------//
+//Function Definitions//
+//--------------------//
+
+/*
+// Get Functions
+bool 	gamePiece::onBoard();
+int	gamePiece::getX();
+int 	gamePiece::getY();
+int 	gamePiece::getNumElements();
+compassPoint gamePiece::getDir();
+provinceName gamePiece::getProvince();
+*/
+
+/*
+// Set Functions
+void 	gamePiece::die();
+void 	gamePiece::turnLeft();
+void 	gamePiece::turnRight();
+void 	gamePiece::aboutFace();
+void 	gamePiece::moveForward();
+int 	gamePiece::attack();
+int 	gamePiece::suffer(int hits);
+recommendation 	gamePiece::recommend(intel sitRep);
+*/
+
+// Constructor
+gamePiece::gamePiece() {
+	alive = false;
+	numSoldiers = 4;
+	x = 0;
+	y = 0;
+	dir = D;
+	province = anjou;
+
+	return;
+}
+
+/*
+ private:
+      int numSoldiers;
+        int x;
+        int y;
+        compassPoint dir;
+        provinceName province;
+        bool alive;
+*/
+
+
+
+
+// return the status of the alive variable
+// bool gamePiece::onBoard();
+
+// return the current x value
+// int gamePiece::getX();
+
+// return the current y value
+// int gamePiece::getY();
+
+// return the current direction
+// compassPoint gamePiece::getDir();
+
+// return the number of soldiers in the unit
+// int gamePiece::getNumElements();
+
+// return the province
+// provinceName gamePiece::getProvince();
+
+// set alive to false
+// void gamePiece::die();
+
+// change the direction for a left turn
+// void gamePiece::turnLeft();
+
+// change the direction for right turn
+// void gamePiece::turnRight();
+
+// change the direction for an about face
+// void gamePiece::aboutFace();
+
+// change x and y for a forward move
+// void gamePiece::moveForward();
+
+// roll a die for each soldier in the unit.
+// each 5 or 6 counts as a 'hit'.
+// return the number of hits.
+// int gamePiece::attack();
+
+//return lft, rght, rear, move, attck, or nothing
+// recommendation gamePiece::recommend(intel sitRep);
+
+// reduce the number of soldiers by hits
+// int gamePiece::suffer(int hits);
+
+
+
+/*
+ private:
+      int numSoldiers;
+        int x;
+        int y;
+        compassPoint dir;
+        provinceName province;
+        bool alive;
+*/
